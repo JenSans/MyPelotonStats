@@ -23,5 +23,4 @@ My personal Peloton stats over the last 3 years.
 ├── README.md                    <- The top-level README for reviewers of this project. 
 ├── data                         <- CSV with Peloton Stats  
 ├── EDA.ipynb                    <- Exploratory Data Analysis containing Jen, Wayne, and Derek EDA Jupyter Notebooks. 
-├── .gitignore                   <- Plain text file where each line contains a pattern for files/directories to ignore.
-└── presentation.pdf             <- PDF of the presentation slides for this project.                 
+└──.gitignore                   <- Plain text file where each line contains a pattern for files/directories to ignore.                
