@@ -4,7 +4,7 @@
 
 My personal Peloton stats over the last 3 years. 
 
-** Note: You won't be able to see the Plotly visualizations by viewing in GitHub.
+** Note: You won't be able to see the Plotly visualizations by viewing in GitHub. You can view and interact with the Plotly visualizations [here](https://nbviewer.org/github/JenSans/MyPelotonStats/blob/main/EDA.ipynb).
 
 ### Visualizations with Plotly!
 
